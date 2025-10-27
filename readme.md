@@ -188,14 +188,14 @@ Metode Kecepatan Akurasi Use Case
 Whoosh ⭐⭐⭐⭐⭐ ⭐⭐⭐ Keyword search
 Cosine ⭐⭐ ⭐⭐⭐⭐⭐ Semantic search
 Hybrid ⭐⭐⭐⭐ ⭐⭐⭐⭐⭐ Recommended
-🏗️ Arsitektur Sistem
+🏗️ Arsitektur Sistems
 text
 Data Flow:
 Dataset → Preprocessing → BoW Vectorization → Whoosh Indexing → Search & Ranking → Results
 
 Components:
 
-1. DataLoader - Load & clean dataset
+1. DataLoader - Load & clean datasets
 2. BowRepresentation - Create Bag-of-Words model
 3. WhooshIndexer - Build & search index
 4. CosineRanker - Calculate similarity scores
@@ -208,7 +208,6 @@ Components:
    ============================================================
    📋 DocID: 123
    ⭐ Score: 0.9123
-   📂 Dataset: etd-usk
    📝 Judul: tingkat guna serang drone perang lawan teror afghanistan masa pimpin presiden obama...
 
 📖 Konten:
