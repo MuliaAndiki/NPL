@@ -3,9 +3,10 @@ Information Retrieval System
 Sistem Information Retrieval (IR) berbasis Command-Line Interface (CLI) yang mampu melakukan proses pencarian dan ranking dokumen dari berbagai sumber teks nyata. Sistem ini mengintegrasikan teknik Bag-of-Words, Whoosh indexing, dan Cosine Similarity untuk memberikan hasil pencarian yang relevan dan akurat.
 
 👥 Anggota Kelompok
-Kelompok XX - Praktikum Penelusuran Informasi
+Kelompok 5 - Praktikum Penelusuran Informasi
 
 Nama NPM Peran
+
 [MuliaAndiki] [2308107010013] Dataset Cleaning & Merge Dataset & Build System Retrieval
 [HaikalAulia] [2308107010063] Preprosesing Dataset Step 1 - 6 & create an exam report
 🎯 Tujuan
