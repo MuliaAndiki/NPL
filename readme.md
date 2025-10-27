@@ -9,6 +9,7 @@ Nama NPM
 
 [MuliaAndiki] [2308107010013]
 [HaikalAulia] [2308107010063]
+
 🎯 Tujuan
 Memahami pipeline lengkap sistem penelusuran informasi dari preprocessing hingga ranking
 
