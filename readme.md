@@ -5,10 +5,10 @@ Sistem Information Retrieval (IR) berbasis Command-Line Interface (CLI) yang mam
 👥 Anggota Kelompok
 Kelompok 5 - Praktikum Penelusuran Informasi
 
-Nama NPM Peran
+Nama NPM
 
-[MuliaAndiki] [2308107010013] Dataset Cleaning & Merge Dataset & Build System Retrieval
-[HaikalAulia] [2308107010063] Preprosesing Dataset Step 1 - 6 & create an exam report
+[MuliaAndiki] [2308107010013]
+[HaikalAulia] [2308107010063]
 🎯 Tujuan
 Memahami pipeline lengkap sistem penelusuran informasi dari preprocessing hingga ranking
 
@@ -270,23 +270,11 @@ Mean Average Precision: 0.81
 Response Time: <0.5s
 
 📄 Pembagian Tugas
-[Nama Anggota 1] - [NPM Anggota 1]
-Data preprocessing dan cleaning
+[MuliaAndiki] - [2308107010013]
+Dataset Cleaning & Merge Dataset & Build System Retrieval
 
-Implementasi Bag-of-Words model
-
-Cosine similarity calculation
-
-Testing dan evaluasi
-
-[Nama Anggota 2] - [NPM Anggota 2]
-Whoosh indexing implementation
-
-Search algorithm development
-
-CLI interface design
-
-System integration
+[HaikalAulia] - [2308107010063]
+Preprosesing Dataset Step 1 - 6 & create an exam report
 
 📜 Lisensi
 Proyek ini dikembangkan untuk memenuhi requirements UTS Praktikum Penelusuran Informasi - Departemen Informatika FMIPA Universitas Syiah Kuala.
@@ -298,4 +286,4 @@ Whoosh Documentation - https://whoosh.readthedocs.io/
 
 scikit-learn Documentation - https://scikit-learn.org/
 
-© 2024 UTS Praktikum PI - Informatika FMIPA Universitas Syiah Kuala
+© 2025 UTS Praktikum PI - Informatika FMIPA Universitas Syiah Kuala
